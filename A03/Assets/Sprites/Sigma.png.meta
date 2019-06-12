@@ -1,0 +1,1135 @@
+fileFormatVersion: 2
+guid: a54b042c1ae6be341bb458a981e7f67e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6065622067873536177
+    second: Sigma1_0
+  - first:
+      213: -3502183225838683364
+    second: Sigma1_1
+  - first:
+      213: -2078652432933701830
+    second: Sigma1_2
+  - first:
+      213: 33535427903047275
+    second: Sigma1_3
+  - first:
+      213: 6852918299679946840
+    second: Sigma1_4
+  - first:
+      213: 7864618482222631764
+    second: Sigma1_5
+  - first:
+      213: 3737588442727486660
+    second: Sigma1_6
+  - first:
+      213: 3136948137878530789
+    second: Sigma1_7
+  - first:
+      213: 5548722492573085394
+    second: Sigma1_8
+  - first:
+      213: -4014427490450519208
+    second: Sigma1_9
+  - first:
+      213: -7617924150891956288
+    second: Sigma1_10
+  - first:
+      213: 6278908435049694454
+    second: Sigma1_11
+  - first:
+      213: 2038046175062049257
+    second: Sigma1_12
+  - first:
+      213: 3342473696146952151
+    second: Sigma1_13
+  - first:
+      213: -1343605265457389611
+    second: Sigma1_14
+  - first:
+      213: 7187378281243918670
+    second: Sigma1_15
+  - first:
+      213: -5585982619065697440
+    second: Sigma1_16
+  - first:
+      213: -5804449455507310783
+    second: Sigma1_17
+  - first:
+      213: -264538077295562576
+    second: Sigma1_18
+  - first:
+      213: 2233083047484499593
+    second: Sigma1_19
+  - first:
+      213: 3235471989178170951
+    second: Sigma1_20
+  - first:
+      213: -5194701450900124131
+    second: Sigma1_21
+  - first:
+      213: 5042066172763844376
+    second: Sigma1_22
+  - first:
+      213: -6140290323501718358
+    second: Sigma1_23
+  - first:
+      213: 2815798053230408121
+    second: Sigma1_24
+  - first:
+      213: 2455711315647702699
+    second: Sigma1_25
+  - first:
+      213: 5545907416621996510
+    second: Sigma1_26
+  - first:
+      213: 3803543175929704607
+    second: Sigma1_27
+  - first:
+      213: -9081633336787887369
+    second: Sigma1_28
+  - first:
+      213: -7087076957842805981
+    second: Sigma1_29
+  - first:
+      213: 5184028560165919634
+    second: Sigma1_30
+  - first:
+      213: 1468606610441121912
+    second: Sigma1_31
+  - first:
+      213: -5223791812041468980
+    second: Sigma1_32
+  - first:
+      213: -2127561343988624982
+    second: Sigma1_33
+  - first:
+      213: -4816690921593034015
+    second: Sigma1_34
+  - first:
+      213: -7306122324321921415
+    second: Sigma1_35
+  - first:
+      213: -5922978546807910390
+    second: Sigma1_36
+  - first:
+      213: 8338233761665329996
+    second: Sigma1_37
+  - first:
+      213: -3354721530904390251
+    second: Sigma1_38
+  - first:
+      213: -8375181250121662434
+    second: Sigma1_39
+  - first:
+      213: -4129749289932712830
+    second: Sigma1_40
+  - first:
+      213: -8806575561562505546
+    second: Sigma1_41
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sigma1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 789
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3894cfa2ebeb40e4cad75c52bfe51012
+      internalID: -6065622067873536177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 789
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74616387b807be4f8ab141d738a2aa9
+      internalID: -3502183225838683364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 789
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951d8240092626b42970d0760c378455
+      internalID: -2078652432933701830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 789
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb8ef861fd34654bafd15055efbf831
+      internalID: 33535427903047275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 789
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9032df9d925a5846adf44f05e82bec8
+      internalID: 6852918299679946840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 789
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9924af264cd1045942c4e9e036d853
+      internalID: 7864618482222631764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 677
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1085b97a7adb04bb9696d7ec800d40
+      internalID: 3737588442727486660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 677
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d845611d3be7ab04a83191f564e03472
+      internalID: 3136948137878530789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 677
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98675d3c69d73c44eaf76ec326e82f67
+      internalID: 5548722492573085394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 677
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73482a29b20708a42bafc72952695c12
+      internalID: -4014427490450519208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c2327ef054f344ca28d1c629b9e032
+      internalID: -7617924150891956288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 518
+        width: 88
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a74bd4e0bc75d4982ef7c2e998b363
+      internalID: 6278908435049694454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 518
+        width: 88
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9949832567e0aff43b4834bb25d47edd
+      internalID: 2038046175062049257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_13
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 518
+        width: 88
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac12e71c0979bf4390d97c5d601ea85
+      internalID: 3342473696146952151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 447
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b117fca533bb4e448bf2022d0e88ca47
+      internalID: -1343605265457389611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 407
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ebf2612a697904eafd1af0d312b9b4
+      internalID: 7187378281243918670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 482
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd73b98eb4d27714392bcb0a27c67205
+      internalID: -5585982619065697440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 407
+        width: 93
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eea4ed8482ed8242a68439065932922
+      internalID: -5804449455507310783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 270
+        width: 78
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bbd6cd1502b6c41a8c3f18a6c74f16
+      internalID: -264538077295562576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 260
+        width: 114
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193a95c4df50e984597aaf9bca77ebda
+      internalID: 2233083047484499593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 261
+        width: 110
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5f20552ea77b143939a04b15d2eae5
+      internalID: 3235471989178170951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 263
+        width: 105
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1aa261730dd2143b09608c50faa272
+      internalID: -5194701450900124131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 149
+        width: 85
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32548099592a0f84aa6ad6dbfc867625
+      internalID: 5042066172763844376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_23
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 145
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dfb735d8a6e6f47a225a7a18124710
+      internalID: -6140290323501718358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 149
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ff2de77d507f44c862a3f01c7c8180
+      internalID: 2815798053230408121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_25
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 149
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee99d8021c52547b1a84a953183834
+      internalID: 2455711315647702699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 108
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d0201533fbc1344ad00088471721f7
+      internalID: 5545907416621996510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 100
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c4732b6e7b2e24f9c3630bf4d19a6b
+      internalID: 3803543175929704607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 100
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45f361377e3dc847b442ebc9402f449
+      internalID: -9081633336787887369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 100
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1845b19c50f5446428669102ae012236
+      internalID: -7087076957842805981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 101
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261823ec75248ad4a8a26ed30c73e8c7
+      internalID: 5184028560165919634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_31
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 102
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078e0789f4329d94abf6f57a41987870
+      internalID: 1468606610441121912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 110
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4c3c4e8621328458e7035003621849
+      internalID: -5223791812041468980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 119
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189e930b92a630046b13f65f809ceaeb
+      internalID: -2127561343988624982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 124
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7d98edf2dcedf4aa2c0fb18d358402
+      internalID: -4816690921593034015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_35
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 128
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7b29e403e28ef45821455e7da5d8a5
+      internalID: -7306122324321921415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 22
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8a480d2430cdc45b415fba1a2df479
+      internalID: -5922978546807910390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 20
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b28193226457604e917cf5ba05421a8
+      internalID: 8338233761665329996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_38
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 14
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6da100c8034bd44682f5dfe26040aee
+      internalID: -3354721530904390251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 25
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106d6a0e43ac0ff43873f167034697da
+      internalID: -8375181250121662434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_40
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 27
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b36b202ca632e4a810e14e491f81c7
+      internalID: -4129749289932712830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sigma1_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db04edb66462a24e834cfd9e41f7c9a
+      internalID: -8806575561562505546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
