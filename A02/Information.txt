@@ -1,7 +1,0 @@
-﻿Assignment link: https://github.com/giabao4498/3D-Visualization-and-Game-Development/tree/master/A02
-
-Group 14 information:
-- Nguyễn Hoàng Gia Bảo (1651005)
-- Chung Nguyễn Huy Hoàng (1651046)
-
-We created 2 scenes for 2 requirements of this assignment (Football board & Rockman X)
